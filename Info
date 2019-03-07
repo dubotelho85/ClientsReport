@@ -1,0 +1,2 @@
+MongoConnectionString
+mongodb+srv://local_user:<password>@du-1-wdmcx.gcp.mongodb.net/test?retryWrites=true
